@@ -16,11 +16,12 @@ Git - GitHub
 jupyter
 PowerAutomate
 Markdown
-Atom
+
+:atom:
 
 
 #### Contacts
 
-<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" / href= "https://github.com/">
+[GitHub]
 [![linkedin]()]
 [![kaggle]()]
