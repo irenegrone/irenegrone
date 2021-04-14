@@ -22,6 +22,5 @@ Markdown
 
 #### Contacts
 
-[GitHub]
-[![linkedin]()]
-[![kaggle]()]
+linkedin
+kaggle
