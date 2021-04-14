@@ -21,5 +21,6 @@ Atom
 
 #### Contacts
 
-- kaggle
-- linkedin
+<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" / href= "https://github.com/">
+[![linkedin]()]
+[![kaggle]()]
