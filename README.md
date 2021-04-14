@@ -4,8 +4,9 @@
 
 <p>I’m currently working on creating a data science portfolio, I am looking to collaborate in open source projects.</p>
 
+<p>I am a traveller, I love the outdoors and backpacking.
 
-## Languages and tool:
+#### Languages and tools
 
 Python
 R
@@ -18,8 +19,7 @@ Markdown
 Atom
 
 
-####Contacts:
+#### Contacts
+
 - kaggle
 - linkedin
-
-####Certification
