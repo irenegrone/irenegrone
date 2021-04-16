@@ -5,22 +5,12 @@
 <p>I am a traveller, I love the outdoors and backpacking.</p>
 
 - I am currently working on creating a data science portfolio;
-- I am currently learning TensorFlow cloud computing;
+- I am currently learning TensorFlow and cloud computing;
 - I am looking to collaborate on open source projects;
 
 #### Languages and tools
 
-Python
-R
-RStudio
-Azure
-GitHub
-Visual Studio Code
-Jupyter
-TensorFlow
-
-
-:atom:
+Python / R - RStudio / Azure / GitHub / Visual Studio Code / Jupyter / TensorFlow / :atom:
 
 #### Contacts and Profiles
 
