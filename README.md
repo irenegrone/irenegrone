@@ -10,7 +10,7 @@
 
 #### Languages and tools
 
-Python / R - RStudio / Azure / GitHub / Visual Studio Code / Jupyter / TensorFlow / Atom
+Python / Jupyter / TensorFlow / R - RStudio / SQL / Azure / Visual Studio Code / Atom / GitHub
 
 #### Contacts and Profiles
 
