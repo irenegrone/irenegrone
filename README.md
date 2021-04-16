@@ -10,7 +10,9 @@
 
 #### Languages and tools
 
-Python / R - RStudio / Azure / GitHub / Visual Studio Code / Jupyter / TensorFlow / :atom:
+![Python](https://github.com/irenegrone/irenegrone/blob/7ba1a4e85a67126974ed8aeef4e2cb16448dccbd/images/python-logo.png)
+
+/ R - RStudio / Azure / GitHub / Visual Studio Code / Jupyter / TensorFlow / :atom:
 
 #### Contacts and Profiles
 
