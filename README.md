@@ -15,4 +15,3 @@
 #### Contacts and Profiles
 
 * Linkedin - [Irene Grone](https://www.linkedin.com/in/irenegrone)
-* Kaggle - [Irene Grone](https://www.kaggle.com/irenegrone)
