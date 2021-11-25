@@ -6,11 +6,11 @@
 
 - I am currently working on creating a data science portfolio;
 - I am currently learning TensorFlow and cloud computing;
-- I am looking to collaborate on open source projects;
+- I am learning computer vision, DSP techniques;
 
 #### Languages and tools
 
-*Python / Jupyter / TensorFlow / R - RStudio / SQL / Azure / Visual Studio Code / Atom / Git - GitHub*
+*Python / Jupyter / TensorFlow / R - RStudio / SQL / AWS / Visual Studio Code / Atom / Git - GitHub*
 
 #### Contacts and Profiles
 
