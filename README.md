@@ -6,7 +6,6 @@
 
 - I am currently working on creating a data science portfolio;
 - I am currently learning TensorFlow and cloud computing;
-- I am learning computer vision, DSP techniques;
 
 #### Languages and tools
 
