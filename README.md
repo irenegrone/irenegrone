@@ -9,7 +9,7 @@
 
 #### Languages and tools
 
-*Python / Jupyter / TensorFlow / R - RStudio / SQL / AWS / Visual Studio Code / Atom / Git*
+*Python / Jupyter / TensorFlow / R - RStudio / SQL / AWS / VS Code / Atom / Git*
 
 #### Contacts and Profiles
 
