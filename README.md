@@ -4,8 +4,9 @@
 
 <p>I am a traveller, I love the outdoors and backpacking.</p>
 
-- I am currently working on creating a data science portfolio;
+- I am currently working on my data science portfolio;
 - I am currently learning TensorFlow and cloud computing;
+- I am starting a bigger project on computer vision;
 
 #### Languages and tools
 
