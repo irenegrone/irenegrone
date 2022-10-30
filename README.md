@@ -6,11 +6,10 @@
 
 - I am currently working on my data science portfolio;
 - I am currently learning TensorFlow and cloud computing;
-- I am starting a bigger project on computer vision;
 
 #### Languages and tools
 
-*Python / Jupyter / TensorFlow / R - RStudio / SQL / AWS / VS Code / Git*
+*Python / Jupyter / TensorFlow / R - RStudio / SQL / AWS / Spark / VS Code / Git*
 
 #### Contacts and Profiles
 
