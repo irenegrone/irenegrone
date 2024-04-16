@@ -4,8 +4,7 @@
 
 <p>I am a traveller, I love the outdoors and backpacking.</p>
 
-- I am currently working on my data science portfolio;
-- I am currently learning TensorFlow and cloud computing;
+- I am currently cloud computing and data engineering;
 - I am learning CI / CD software practices
 
 #### Languages and tools
