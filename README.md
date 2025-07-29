@@ -4,7 +4,7 @@
 
 <p>I am a traveller, I love the outdoors and backpacking, and trail running.</p>
 
-- I am currently learning cloud computing and data engineering;
+- I am currently learning ML Ops and data engineering;
 - I am learning CI / CD software practices
 
 #### Languages and tools
